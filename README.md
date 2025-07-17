@@ -1,1 +1,1 @@
-# Make for work become easy
+# Make things easier
