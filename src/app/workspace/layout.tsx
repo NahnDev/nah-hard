@@ -1,4 +1,4 @@
-import WorkspaceSidebar from "@/module/app/WorkspaceSidebar";
+import WorkspaceSidebar from "@/modules/workspace/WorkspaceSidebar";
 
 type WorkspaceLayoutProps = Readonly<{
   children: React.ReactNode;
